@@ -1,2 +1,2 @@
 # Simulation
-Running some simulations and nunmerical pricing
+Running some simulations and numerical pricing
