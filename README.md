@@ -1,2 +1,2 @@
 # Simulation
-Running different simulation methods
+Running some simulations and nunmerical pricing
